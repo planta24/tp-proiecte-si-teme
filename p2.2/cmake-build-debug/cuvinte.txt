@@ -1,0 +1,3 @@
+ptr cuv AnA 3 are 2 vocale are 2 litere mari si diferenta 0 dintre primul si ultmiu caracter
+ptr cuv aRe 3 are 2 vocale are 1 litere mari si diferenta -4 dintre primul si ultmiu caracter
+ptr cuv MERE 4 are 2 vocale are 4 litere mari si diferenta 8 dintre primul si ultmiu caracter

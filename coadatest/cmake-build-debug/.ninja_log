@@ -1,0 +1,13 @@
+# ninja log v5
+0	48	7328113746762918	CMakeFiles/coadatest.dir/main.c.obj	c946785d22ba29ce
+49	110	7328113747342883	coadatest.exe	56d5b63f72f9ed18
+1	66	7328118775898924	CMakeFiles/coadatest.dir/main.c.obj	c946785d22ba29ce
+66	135	7328118776558888	coadatest.exe	56d5b63f72f9ed18
+1	61	7328119802404681	CMakeFiles/coadatest.dir/main.c.obj	c946785d22ba29ce
+62	131	7328119803074653	coadatest.exe	56d5b63f72f9ed18
+2	64	7328120131403052	CMakeFiles/coadatest.dir/main.c.obj	c946785d22ba29ce
+65	135	7328120132083045	coadatest.exe	56d5b63f72f9ed18
+2	60	7328120997718943	CMakeFiles/coadatest.dir/main.c.obj	c946785d22ba29ce
+61	127	7328120998358967	coadatest.exe	56d5b63f72f9ed18
+2	65	7328122735798664	CMakeFiles/coadatest.dir/main.c.obj	c946785d22ba29ce
+65	136	7328122736478630	coadatest.exe	56d5b63f72f9ed18

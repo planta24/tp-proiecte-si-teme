@@ -1,0 +1,3 @@
+C:/Users/pdrag/OneDrive/Desktop/c programe/p matr/cmake-build-debug/CMakeFiles/p_matr.dir
+C:/Users/pdrag/OneDrive/Desktop/c programe/p matr/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pdrag/OneDrive/Desktop/c programe/p matr/cmake-build-debug/CMakeFiles/rebuild_cache.dir

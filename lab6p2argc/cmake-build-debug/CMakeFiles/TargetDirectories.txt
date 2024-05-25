@@ -1,0 +1,3 @@
+C:/Users/pdrag/OneDrive/Desktop/c programe/lab6p2argc/cmake-build-debug/CMakeFiles/lab6p2argc.dir
+C:/Users/pdrag/OneDrive/Desktop/c programe/lab6p2argc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pdrag/OneDrive/Desktop/c programe/lab6p2argc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

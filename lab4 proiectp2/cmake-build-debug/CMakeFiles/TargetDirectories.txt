@@ -1,0 +1,3 @@
+C:/Users/pdrag/OneDrive/Desktop/c programe/lab4 proiectp2/cmake-build-debug/CMakeFiles/lab4_proiectp2.dir
+C:/Users/pdrag/OneDrive/Desktop/c programe/lab4 proiectp2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pdrag/OneDrive/Desktop/c programe/lab4 proiectp2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
